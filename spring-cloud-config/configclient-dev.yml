@@ -1,0 +1,3 @@
+app-config:
+   ip: 1.2.3.4
+   port: 8888
